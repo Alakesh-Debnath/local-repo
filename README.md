@@ -1,1 +1,1 @@
-# This is a loca rep0sitaries.
+# This is a loca repositaries.
